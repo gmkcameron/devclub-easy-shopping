@@ -1,6 +1,6 @@
 # Easy Shopping
 
-Projeto desenvolvido durante o **DevClub**, com orientação do Rodolfo Mori. A proposta foi reproduzir o layout de uma landing page responsiva focada em uma solução de compras via aplicativo.
+Projeto desenvolvido durante a **Formação Fullstack Javascript do DevClub**, com orientação do Rodolfo Mori. A proposta foi reproduzir o layout de uma landing page responsiva focada em uma solução de compras via aplicativo.
 
 ## Sobre o projeto
 
@@ -14,7 +14,7 @@ Projeto desenvolvido durante o **DevClub**, com orientação do Rodolfo Mori. A 
 
 ## Layout
 
-O design de referência é fornecido pelo DevClub. Ajuste as classes `container-left` e `container-right` conforme o arquivo `styles.css` para manter o visual idêntico ao Figma.
+O design de referência foi fornecido pelo DevClub. Ajuste as classes `container-left` e `container-right` conforme o arquivo `styles.css` para manter o visual idêntico ao Figma.
 
 ## Como executar
 
@@ -23,4 +23,4 @@ O design de referência é fornecido pelo DevClub. Ajuste as classes `container-
 
 ## Créditos
 
-Projeto guiado por Rodolfo Mori dentro da plataforma DevClub.
+Projeto guiado por Rodolfo Mori dentro da plataforma DevClub, pertencente à Formação Fullstack Javascript.
